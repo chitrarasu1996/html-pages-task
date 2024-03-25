@@ -20,8 +20,7 @@ This HTML template provides a structured layout for a web page. Below is an over
 ### 5. Footer
 - **Footer**: Includes a footer section with a call-to-action button for getting started.
 
-### 6. Copyright
-- **Copyright**: Displays copyright information.
+
 
 ## Usage
 
